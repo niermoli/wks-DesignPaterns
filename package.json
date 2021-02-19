@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elenaGonzalez/patronesdedisenio.git"
+    "url": "git+https://github.com/soyHenry/wks-DesignPaterns/"
   },
   "keywords": [
     "patrones"
@@ -20,9 +20,9 @@
   "author": "Elena Gonzalez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elenaGonzalez/patronesdedisenio/issues"
+    "url": "https://github.com/soyHenry/wks-DesignPaterns/"
   },
-  "homepage": "https://github.com/elenaGonzalez/patronesdedisenio#readme",
+  "homepage": "https://github.com/soyHenry/wks-DesignPaterns#readme",
   "dependencies": {
     "modules": "^0.4.0",
     "node": "^15.4.0",
