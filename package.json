@@ -1,0 +1,31 @@
+{
+  "name": "patronesdedisenio",
+  "version": "1.0.0",
+  "description": "Patrones de diseño",
+  "main": "homework.js",
+  "directories": {
+    "nodemon": "^1.14.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon homework.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenaGonzalez/patronesdedisenio.git"
+  },
+  "keywords": [
+    "patrones"
+  ],
+  "author": "Elena Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenaGonzalez/patronesdedisenio/issues"
+  },
+  "homepage": "https://github.com/elenaGonzalez/patronesdedisenio#readme",
+  "dependencies": {
+    "modules": "^0.4.0",
+    "node": "^15.4.0",
+    "nodemon": "^2.0.7"
+  }
+}
