@@ -9,8 +9,11 @@ Deberíamos ver por consola, el siguiente mensaje:
 
 - 1.1) Si creo dos instancias de la clase aplicacion y pregunto si ambas son exactamente iguales, cuál será el resultado?
 
+Va a dar true, a diferencia de lo que pasaría normalmente
 
 2. Crear un constructor de elementos html de una páginas web. El mismo, puede crear elementos de tipo: h1, p, img e imput. El método encargado de crear el tipo de elemento, se determinará según la configuración recibida. ¿Qué tipo de patrón usarías?
+
+Abstract method o abstract factory
 
 - 2.2) ¿Cómo te imaginás que sería el código?
 Escribe una posible solución aplicando este patrón en el archivo constructorSitios.js
